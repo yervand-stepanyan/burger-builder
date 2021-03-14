@@ -43,6 +43,23 @@
     "react/react-in-jsx-scope": "off",
     "react/jsx-wrap-multilines": "off",
     "react/prefer-stateless-function": "off",
-    "no-unused-vars": "off"
+    "no-unused-vars": "off",
+    "react/destructuring-assignment": "off",
+    "react/no-array-index-key": "off",
+    "react/self-closing-comp": "off",
+    "react/state-in-constructor": "off",
+    "react/button-has-type": "off",
+    "react/no-access-state-in-setstate": "off",
+    "no-restricted-syntax": "off",
+    "guard-for-in": "off",
+    "prefer-const": "off",
+    "react/sort-comp": "off",
+    "no-shadow": "off",
+    "jsx-a11y/click-events-have-key-events": "off",
+    "jsx-a11y/no-static-element-interactions": "off",
+    "import/no-named-as-default": "off",
+    "import/no-named-as-default-member": "off",
+    "arrow-body-style": "off",
+    "react/prop-types": "off"
   }
 }
