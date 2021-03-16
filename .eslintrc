@@ -60,6 +60,9 @@
     "import/no-named-as-default": "off",
     "import/no-named-as-default-member": "off",
     "arrow-body-style": "off",
-    "react/prop-types": "off"
+    "react/prop-types": "off",
+    "lines-between-class-members": "off",
+    "object-shorthand": "off",
+    "camelcase": "off"
   }
 }
