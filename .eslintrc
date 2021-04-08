@@ -66,6 +66,8 @@
     "camelcase": "off",
     "prefer-template": "off",
     "react/no-unused-state": "off",
-    "prefer-destructuring": "off"
+    "prefer-destructuring": "off",
+    "jsx-a11y/label-has-associated-control": "off",
+    "class-methods-use-this": "off"
   }
 }
