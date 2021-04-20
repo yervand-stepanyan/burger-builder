@@ -68,6 +68,8 @@
     "react/no-unused-state": "off",
     "prefer-destructuring": "off",
     "jsx-a11y/label-has-associated-control": "off",
-    "class-methods-use-this": "off"
+    "class-methods-use-this": "off",
+    "no-underscore-dangle": "off",
+    "no-case-declarations": "off"
   }
 }
